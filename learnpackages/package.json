@@ -1,0 +1,16 @@
+{
+  "name": "learnpackages",
+  "version": "1.0.0",
+  "description": "my new react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "boby",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "react": "^18.2.0",
+    "react-router-dom": "^6.10.0"
+  }
+}
